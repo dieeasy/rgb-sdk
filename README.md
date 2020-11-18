@@ -26,3 +26,7 @@ track of the exact package version.
 After an update, run tests (`cargo test`) and manually test the software
 in order to stimulate function calls from updated libraries.
 If any problem arises, open an issue.
+
+## this is a test section
+
+lorem ipsum ...
