@@ -3,9 +3,9 @@ name: Docker Build
 on:
   push:
     branches: [ dieeasy/self_docker_build ]
-    paths:
-      - '**/Dockerfile'
-      - 'rust-lib/Cargo.*'
+    #paths:
+    #  - '**/Dockerfile'
+    #  - 'rust-lib/Cargo.*'
   pull_request:
     branches: [ dieeasy/self_docker_build ]
 
